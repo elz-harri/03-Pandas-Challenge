@@ -1,3 +1,6 @@
+In the event my notebook is not displaying correctly, please visit the link below to see it.
+https://nbviewer.jupyter.org/github/elz-harri/04-Pandas-Challenge/blob/main/HeroesOfPymoli/HeroesofPymoli_Harrison_Final.ipynb
+
 ## Background
 
 The data dive continues!
@@ -191,3 +194,4 @@ As final considerations:
 * As always, feel encouraged to work in groups and get help from your TAs and Instructor. Just remember, true success comes from mastery and _not_ a completed homework assignment. So challenge yourself to truly succeed!
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
